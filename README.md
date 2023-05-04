@@ -1,5 +1,6 @@
 # Hi, I'm Paaras  👋
-##### as a tech enthusiast 
+### As a tech enthusiast 
+
 🌱 I’m currently doing my undergrad from Vellore Institute of Technology, Bhopal
 
 📫 How to reach me: paras200213@gmail.com
