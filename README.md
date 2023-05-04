@@ -1,4 +1,7 @@
-### Hi there 👋
+####### Hi, I'm Paaras  👋
+##### as a tech enthusiast 
+🌱 I’m currently doing my undergrad from Vellore Institute of Technology, Bhopal
+📫 How to reach me: paras200213@gmail.com
 
 <!--
 **paarasv/paarasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
