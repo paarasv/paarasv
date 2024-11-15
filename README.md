@@ -1,50 +1,70 @@
-# Hi, I'm Paaras  👋
-### As a tech enthusiast 
+# Hi, I'm Paras Verma 👋  
 
-🌱 I’m currently doing my undergrad from Vellore Institute of Technology, Bhopal
+### Tech Enthusiast | Community Leader | Software Developer  
 
-📫 How to reach me: paras200213@gmail.com
+🌱 **Currently:** Pursuing B.Tech in Computer Science and Engineering at Vellore Institute of Technology, Bhopal (CGPA: 8.42/10)  
+📫 **Contact:** [paaras.pv1111@gmail.com](mailto:paaras.pv1111@gmail.com)  
+🔗 **GitHub:** [paarasv](https://github.com/paarasv) | **LinkedIn:** [paras1111](https://www.linkedin.com/in/paras1111)  
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/gatsby/gatsby-original.svg" title="Gatsby"  alt="Gatsby" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-</div>
+---
 
-##   ⚡ My stats
+## 🛠️ Technical Skills  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paarasv)](https://git.io/streak-stats)
+**Programming Languages:**  
+- C++, JavaScript  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paarasv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+**Web Development:**  
+- React, Node.js, Express, MongoDB, Redis  
+- RESTful APIs, JWT Authentication  
 
+**Tools and Frameworks:**  
+- Geospatial Indexing, Multer, Socket.IO, Leaflet.js  
+- Git, Firebase, AWS  
 
+---
 
+## 🏆 Achievements  
 
+- **Co-founder:** Tech startup for portfolio management, trained 1000+ students in industry skills.  
+- **Guest Speaker:** Delivered astronomy talks at Aries Observatory and Kodaikanal Solar Observatory to audiences of 1000+.  
+- **Leadership:** Managed events with 1000+ participants at GDSC, achieving a 95% satisfaction rate.  
 
+---
 
-<!--
-**paarasv/paarasv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Featured Projects  
 
-Here are some ideas to get you started:
+### [LocalConnect Marketplace](https://github.com/paarasv/localconnect-marketplace)  
+A full-stack classifieds web app with:  
+- JWT authentication and geospatial queries for enhanced search efficiency.  
+- Responsive design with React, ensuring 95% mobile compatibility.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### [GeoTrack Live](https://github.com/paarasv/geotrack-live)  
+Real-time location tracking platform using:  
+- Socket.IO for instant updates and Leaflet.js for interactive mapping.  
+- Features like manual marker placement and distance calculation.  
+
+---
+
+## 🚀 My Stats  
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paarasv)](https://git.io/streak-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paarasv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
+
+---
+
+## 🌌 Dynamic 3D Section  
+
+Explore a dynamic 3D logo made for my profile:  
+[![View My 3D Model](https://img.shields.io/badge/View-3D%20Logo-orange?style=for-the-badge&logo=spline&logoColor=white)](https://spline.design)  
+
+You can also see live 3D animations for web:  
+- **Tech Stack Spinner:** [View 3D Tech](https://codesandbox.io/s/github-tech-stack-3d)  
+- **Rotating Globe:** [Interactive Globe](https://github.com/vasturiano/globe.gl)  
+
+---
+
+## 📌 Let's Connect!  
+Feel free to explore my repositories or reach out for collaboration opportunities.
+
+---
+
