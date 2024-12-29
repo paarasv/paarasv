@@ -52,17 +52,6 @@ Real-time location tracking platform using:
 
 ---
 
-## 🌌 Dynamic 3D Section  
-
-Explore a dynamic 3D logo made for my profile:  
-[![View My 3D Model](https://img.shields.io/badge/View-3D%20Logo-orange?style=for-the-badge&logo=spline&logoColor=white)](https://spline.design)  
-
-You can also see live 3D animations for web:  
-- **Tech Stack Spinner:** [View 3D Tech](https://codesandbox.io/s/github-tech-stack-3d)  
-- **Rotating Globe:** [Interactive Globe](https://github.com/vasturiano/globe.gl)  
-
----
-
 ## 📌 Let's Connect!  
 Feel free to explore my repositories or reach out for collaboration opportunities.
 
