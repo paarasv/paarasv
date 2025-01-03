@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center">Hi there, I'm Paras Verma 👋</h1>
+  <h1 align="center">Hi there, I'm Paras👋</h1>
   <h3 align="center">Tech Enthusiast | Community Leader | Software Developer</h3>
 </p>
 
@@ -20,8 +20,8 @@ const techStack = {
     languages: ['C++', 'JavaScript'],
     frontend: ['React', 'HTML5', 'CSS3'],
     backend: ['Node.js', 'Express'],
-    databases: ['MongoDB', 'MySQL'],
-    tools: ['Git', 'Docker', 'DockerCompose'],
+    databases: ['MongoDB', 'Redis'],
+    tools: ['Git', 'Firebase', 'AWS', 'Docker'],
     specialty: ['Geospatial Indexing', 'Socket.IO', 'Leaflet.js', 'RESTful APIs']
 };
 ```
@@ -44,6 +44,16 @@ const techStack = {
   - Fostered tech community growth
 
 ## 💻 Featured Projects
+
+### VoteVault
+A secure and scalable online voting platform with enterprise-grade security.
+- 🔒 Advanced security with JWT authentication & bcrypt hashing
+- 🐳 Containerized deployment with Docker and Docker Compose
+- 📊 Scalable MongoDB architecture
+- 🔐 Comprehensive user authentication system
+- 🚀 Production-ready with Heroku deployment support
+
+[View Project](https://github.com/paarasv/votevault) | [Live Demo](#)
 
 ### LocalConnect Marketplace
 A sophisticated classifieds platform leveraging modern web technologies.
@@ -83,3 +93,6 @@ I'm always excited to collaborate on innovative projects and discuss new technol
 
 ---
 
+<p align="center">
+  <i>⭐️ If you like my projects, don't forget to leave a star!</i>
+</p>
