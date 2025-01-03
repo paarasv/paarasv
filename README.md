@@ -11,7 +11,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science and Engineering student at Vellore Institute of Technology, Bhopal, maintaining a CGPA of 8.42/10. I'm passionate about building scalable applications and contributing to the tech community through leadership and education.
+I'm a Computer Science and Engineering student at Vellore Institute of Technology, Bhopal. I'm passionate about building scalable applications and contributing to the tech community through leadership and education.
 
 ## 🛠️ Technical Arsenal
 
@@ -83,6 +83,3 @@ I'm always excited to collaborate on innovative projects and discuss new technol
 
 ---
 
-<p align="center">
-  <i>⭐️ If you like my projects, don't forget to leave a star!</i>
-</p>
