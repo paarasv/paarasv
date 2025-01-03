@@ -1,59 +1,88 @@
-# Hi, I'm Paras Verma 👋  
+<p align="center">
+  <h1 align="center">Hi there, I'm Paras Verma 👋</h1>
+  <h3 align="center">Tech Enthusiast | Community Leader | Software Developer</h3>
+</p>
 
-### Tech Enthusiast | Community Leader | Software Developer  
+<p align="center">
+  <a href="mailto:paaras.pv1111@gmail.com"><img src="https://img.shields.io/badge/Email-paaras.pv1111%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="https://github.com/paarasv"><img src="https://img.shields.io/badge/GitHub-paarasv-black?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/paras1111"><img src="https://img.shields.io/badge/LinkedIn-paras1111-blue?style=flat-square&logo=linkedin"></a>
+</p>
 
-🌱 **Currently:** Pursuing B.Tech in Computer Science and Engineering at Vellore Institute of Technology, Bhopal (CGPA: 8.42/10)  
-📫 **Contact:** [paaras.pv1111@gmail.com](mailto:paaras.pv1111@gmail.com)  
-🔗 **GitHub:** [paarasv](https://github.com/paarasv) | **LinkedIn:** [paras1111](https://www.linkedin.com/in/paras1111)  
+## 👨‍💻 About Me
+
+I'm a Computer Science and Engineering student at Vellore Institute of Technology, Bhopal, maintaining a CGPA of 8.42/10. I'm passionate about building scalable applications and contributing to the tech community through leadership and education.
+
+## 🛠️ Technical Arsenal
+
+```javascript
+const techStack = {
+    languages: ['C++', 'JavaScript'],
+    frontend: ['React', 'HTML5', 'CSS3'],
+    backend: ['Node.js', 'Express'],
+    databases: ['MongoDB', 'MySQL'],
+    tools: ['Git', 'Docker', 'DockerCompose'],
+    specialty: ['Geospatial Indexing', 'Socket.IO', 'Leaflet.js', 'RESTful APIs']
+};
+```
+
+## 🏆 Key Achievements
+
+- 🚀 **Community Co-founder**
+  - Established a successful portfolio management tech startup
+  - Trained 1000+ students in industry-relevant skills
+  
+- 🎤 **Public Speaking**
+  - Guest speaker at prestigious institutions:
+    - Aries Observatory
+    - Kodaikanal Solar Observatory
+  - Engaged with audiences of 1000+ on astronomy topics
+
+- 👥 **Community Leadership**
+  - Led GDSC events with 1000+ participants
+  - Achieved 95% participant satisfaction rate
+  - Fostered tech community growth
+
+## 💻 Featured Projects
+
+### LocalConnect Marketplace
+A sophisticated classifieds platform leveraging modern web technologies.
+- 🔐 JWT-based authentication system
+- 📍 Geospatial search optimization
+- 📱 95% mobile responsiveness
+- 🎯 Enhanced user targeting
+
+[View Project](https://github.com/paarasv/localconnect-marketplace) | [Live Demo](#)
+
+### GeoTrack Live
+Real-time location tracking system with advanced mapping capabilities.
+- 🔄 Real-time updates via Socket.IO
+- 🗺️ Interactive mapping with Leaflet.js
+- 📍 Custom marker placement
+- 📏 Distance calculation features
+
+[View Project](https://github.com/paarasv/geotrack-live) | [Live Demo](#)
+
+## 📈 GitHub Analytics
+
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=paarasv" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarasv&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
+</p>
+
+## 🤝 Let's Connect!
+
+I'm always excited to collaborate on innovative projects and discuss new technologies. Feel free to reach out through any of the following channels:
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/paras1111)
+- 📧 [Email](mailto:paaras.pv1111@gmail.com)
+- 🌐 [GitHub](https://github.com/paarasv)
 
 ---
 
-## 🛠️ Technical Skills  
-
-**Programming Languages:**  
-- C++, JavaScript  
-
-**Web Development:**  
-- React, Node.js, Express, MongoDB, Redis  
-- RESTful APIs, JWT Authentication  
-
-**Tools and Frameworks:**  
-- Geospatial Indexing, Multer, Socket.IO, Leaflet.js  
-- Git, Firebase, AWS  
-
----
-
-## 🏆 Achievements  
-
-- **Co-founder:** Tech startup for portfolio management, trained 1000+ students in industry skills.  
-- **Guest Speaker:** Delivered astronomy talks at Aries Observatory and Kodaikanal Solar Observatory to audiences of 1000+.  
-- **Leadership:** Managed events with 1000+ participants at GDSC, achieving a 95% satisfaction rate.  
-
----
-
-## 🌟 Featured Projects  
-
-### [LocalConnect Marketplace](https://github.com/paarasv/localconnect-marketplace)  
-A full-stack classifieds web app with:  
-- JWT authentication and geospatial queries for enhanced search efficiency.  
-- Responsive design with React, ensuring 95% mobile compatibility.  
-
-### [GeoTrack Live](https://github.com/paarasv/geotrack-live)  
-Real-time location tracking platform using:  
-- Socket.IO for instant updates and Leaflet.js for interactive mapping.  
-- Features like manual marker placement and distance calculation.  
-
----
-
-## 🚀 My Stats  
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=paarasv)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paarasv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)  
-
----
-
-## 📌 Let's Connect!  
-Feel free to explore my repositories or reach out for collaboration opportunities.
-
----
-
+<p align="center">
+  <i>⭐️ If you like my projects, don't forget to leave a star!</i>
+</p>
