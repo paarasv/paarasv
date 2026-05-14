@@ -1,8 +1,15 @@
 <p align="center">
-  <a href="mailto:parasverma.pv.tech@gmail.com"><img src="https://img.shields.io/badge/Email-parasverma.pv.tech%40gmail.com-blue?style=flat-square&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/paarasv"><img src="https://img.shields.io/badge/GitHub-paarasv-181717?style=flat-square&logo=github"></a>
-  <a href="https://www.linkedin.com/in/paras1111"><img src="https://img.shields.io/badge/LinkedIn-paras1111-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="https://linkedin.com/in/paras1111"><img src="https://img.shields.io/badge/LinkedIn-paras1111-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:parasverma.pv.tech@gmail.com"><img src="https://img.shields.io/badge/Email-contact-blue?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://seraemos.com"><img src="https://img.shields.io/badge/Sera%20EmOS-live-8B5CF6?style=flat-square"></a>
 </p>
+
+---
+
+iOS · GenAI pipelines · data infrastructure. I build things end-to-end — consumer apps shipped to production, agentic AI systems with longitudinal context, and platform tooling at scale.
+
+Currently sole engineer on **[Sera (EmOS)](https://seraemos.com)** — an AI companion with persistent user context, RAG-backed retrieval, and a 5-layer signal architecture. Four shipped versions.
 
 ---
 
@@ -14,20 +21,9 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/LangGraph-AI%20Orchestration-8B5CF6?style=flat-square">
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-ChromaDB-0891B2?style=flat-square">
-  <img src="https://img.shields.io/badge/Agentic%20Workflows-Ollama%20%7C%20Mistral%20%7C%20Claude-1D4ED8?style=flat-square">
+  <img src="https://img.shields.io/badge/RAG-ChromaDB-0891B2?style=flat-square">
 </p>
-
----
-
-CS undergrad at VIT (2025), shipping across iOS, GenAI pipelines, and data infrastructure. Built consumer-facing iOS apps from zero to production, designed agentic AI systems with persistent user context, and owned data platform work at PayU — from pipeline observability to Facebook Ads API batching logic.
-
-Currently building **[Sera (EmOS)](https://seraemos.com)** — an AI companion with longitudinal user context, RAG-backed retrieval, and a 5-layer signal architecture. Four shipped versions, sole engineer.
 
 ---
 
@@ -35,33 +31,37 @@ Currently building **[Sera (EmOS)](https://seraemos.com)** — an AI companion w
 stack = {
     "mobile":   ["Swift", "SwiftUI"],
     "backend":  ["Python", "FastAPI", "Node.js", "TypeScript"],
-    "ai_infra": ["LangGraph", "RAG Pipelines", "Ollama", "Mistral", "Claude", "ChromaDB"],
-    "data":     ["PostgreSQL", "Airflow", "Async Programming"],
-    "infra":    ["Docker", "GitHub Actions", "Microservices", "CI/CD"],
+    "ai_infra": ["LangGraph", "RAG", "ChromaDB", "Ollama", "Mistral", "Claude"],
+    "data":     ["PostgreSQL", "Airflow"],
+    "infra":    ["Docker", "GitHub Actions", "CI/CD"],
 }
 ```
 
 ---
 
-**Sera (EmOS)** — `LangGraph · FastAPI · ChromaDB · Ollama · Docker`
-Agentic AI companion with persistent longitudinal user context. Deterministic multi-step workflows, quantified behavioral signals (stress index, stability score, emotional intensity multiplier), safety guardrails as first-class system logic. Sole engineer, v1 → v4.
+**Timeline**
 
-**PayU — Data & AI Platform**
-Pipeline observability with Teams integration and structured audit logs. Server infrastructure separation across Jupyter/PostgreSQL/Airflow. Defined structured output schemas for Statica AI (GenAI module), drove engineering fixes v1 → v3 to deterministic output. Facebook Ads API batching & back-off logic.
+| period | where | what |
+|--------|-------|------|
+| Nov '24 – Apr '25 | PayU (Naspers) | Data & AI Platform |
+| Jun '24 – Nov '24 | Plavox | iOS Gaming Platform |
+| Jan '24 – Jun '24 | Guardian Life | iOS Group Business Insurance |
+| 2021 – 2025 | VIT Vellore | B.Tech CSE · 8.62 CGPA |
 
-**Plavox — iOS Gaming Platform**
-Consumer iOS gaming app from zero to production: push notifications, real-time tournament management, achievement systems, badge mechanics. Coordinated API contracts across frontend, backend, and DevOps through launch.
+---
 
-**Guardian Life — iOS Group Business Insurance**
-End-to-end self-service Claim Filing module, full REST API integration. Introduced Periphery and SwiftLint, cutting ~15% unused code across the codebase.
+**[Sera (EmOS)](https://seraemos.com)** — `LangGraph · FastAPI · ChromaDB · Ollama · Docker` · v4
+Agentic AI companion · persistent longitudinal context · 5-layer signal architecture · sole engineer
+
+**Plavox** — `Swift · SwiftUI`
+Consumer iOS gaming app · zero to production
+
+**Guardian Life** — `Swift · SwiftLint · Periphery`
+Self-service claim filing · 15% dead code eliminated
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=paarasv&hide_border=true" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarasv&layout=compact&hide_border=true" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=paarasv&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarasv&layout=compact&hide_border=true" />
 </p>
-
----
-
-<p align="center">parasverma.pv.tech@gmail.com</p>
