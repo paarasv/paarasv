@@ -50,13 +50,13 @@ stack = {
 
 ---
 
-**[Sera (EmOS)](https://seraemos.com)** — `LangGraph · FastAPI · ChromaDB · Ollama · Docker` · v4
+**[Sera (EmOS)](https://seraemos.com)** — `LangGraph · FastAPI · ChromaDB · Ollama · Docker` · v4  
 Agentic AI companion · persistent longitudinal context · 5-layer signal architecture · sole engineer
 
-**Plavox** — `Swift · SwiftUI`
+**Plavox** — `Swift · SwiftUI`  
 Consumer iOS gaming app · zero to production
 
-**Guardian Life** — `Swift · SwiftLint · Periphery`
+**Guardian Life** — `Swift · SwiftLint · Periphery`  
 Self-service claim filing · 15% dead code eliminated
 
 ---
