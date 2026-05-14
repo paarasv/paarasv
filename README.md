@@ -1,98 +1,57 @@
+<h1 align="center">Paras Verma</h1>
 <p align="center">
-  <h1 align="center">Hi there, I'm Paras👋</h1>
-  <h3 align="center">Tech Enthusiast | Community Leader | Software Developer</h3>
-</p>
-
-<p align="center">
-  <a href="mailto:paaras.pv1111@gmail.com"><img src="https://img.shields.io/badge/Email-paaras.pv1111%40gmail.com-blue?style=flat-square&logo=gmail"></a>
+  <a href="mailto:parasverma.pv.tech@gmail.com"><img src="https://img.shields.io/badge/Email-parasverma.pv.tech%40gmail.com-blue?style=flat-square&logo=gmail"></a>
   <a href="https://github.com/paarasv"><img src="https://img.shields.io/badge/GitHub-paarasv-black?style=flat-square&logo=github"></a>
   <a href="https://www.linkedin.com/in/paras1111"><img src="https://img.shields.io/badge/LinkedIn-paras1111-blue?style=flat-square&logo=linkedin"></a>
 </p>
 
-## 👨‍💻 About Me
+---
 
-I'm a Computer Science and Engineering student at Vellore Institute of Technology, Bhopal. I'm passionate about building scalable applications and contributing to the tech community through leadership and education.
+CS undergrad at VIT (2025), shipping across iOS, GenAI pipelines, and data infrastructure. I've built consumer-facing iOS apps from zero to production, designed agentic AI systems with persistent user context, and owned data platform work at PayU — from pipeline observability to Facebook Ads API batching logic.
 
-## 🛠️ Technical Arsenal
+Currently building [Sera (EmOS)](https://seraemos.com) — an AI companion with longitudinal user context, RAG-backed retrieval, and a 5-layer signal architecture. Four shipped versions, sole engineer.
 
-```javascript
-const techStack = {
-    languages: ['C++', 'JavaScript'],
-    frontend: ['React', 'HTML5', 'CSS3'],
-    backend: ['Node.js', 'Express'],
-    databases: ['MongoDB', 'Redis'],
-    tools: ['Git', 'Firebase', 'AWS', 'Docker'],
-    specialty: ['Geospatial Indexing', 'Socket.IO', 'Leaflet.js', 'RESTful APIs']
-};
+---
+
+## What I work with
+
+```python
+stack = {
+    "mobile":       ["Swift", "SwiftUI"],
+    "backend":      ["Python", "FastAPI", "Node.js", "TypeScript"],
+    "ai_infra":     ["LangGraph", "RAG Pipelines", "Ollama", "Mistral", "Claude", "ChromaDB"],
+    "data":         ["PostgreSQL", "Airflow", "Async Programming"],
+    "infra":        ["Docker", "GitHub Actions", "Microservices", "CI/CD"],
+}
 ```
 
-## 🏆 Key Achievements
+---
 
-- 🚀 **Community Co-founder**
-  - Established a successful portfolio management tech startup
-  - Trained 1000+ students in industry-relevant skills
-  
-- 🎤 **Public Speaking**
-  - Guest speaker at prestigious institutions:
-    - Aries Observatory
-    - Kodaikanal Solar Observatory
-  - Engaged with audiences of 1000+ on astronomy topics
+## Selected Work
 
-- 👥 **Community Leadership**
-  - Led GDSC events with 1000+ participants
-  - Achieved 95% participant satisfaction rate
-  - Fostered tech community growth
+**Sera (EmOS)** — `LangGraph · FastAPI · ChromaDB · Ollama · Docker`  
+Agentic AI companion with persistent longitudinal context. Deterministic multi-step workflows, quantified behavioral signals (stress index, stability score, emotional intensity multiplier), and safety guardrails as first-class system logic. Built and iterated through v1 → v4.
 
-## 💻 Featured Projects
+**PayU — Data & AI Platform**  
+Pipeline observability system with Teams integration, structured audit logs, and automated alerting across all data pipelines. Led server infrastructure separation for shared Jupyter/PostgreSQL/Airflow environments, replaced manual restarts with automated crash recovery. Defined structured output schemas for Statica AI (GenAI module) and drove engineering fixes from v1 → v3 to stable, deterministic output.
 
-### VoteVault
-A secure and scalable online voting platform with enterprise-grade security.
-- 🔒 Advanced security with JWT authentication & bcrypt hashing
-- 🐳 Containerized deployment with Docker and Docker Compose
-- 📊 Scalable MongoDB architecture
-- 🔐 Comprehensive user authentication system
-- 🚀 Production-ready with Heroku deployment support
+**Guardian Life — iOS (Group Business Insurance)**  
+Owned end-to-end implementation of a self-service Claim Filing module — API contracts, full REST integration, policyholder-facing workflows. Introduced Periphery and SwiftLint, cutting ~15% unused code across the codebase.
 
-[View Project](https://github.com/paarasv/votevault) | [Live Demo](#)
+**Plavox — iOS Gaming Platform**  
+Built the consumer iOS app from scratch: push notifications, real-time tournament management, achievement systems, badge mechanics. Coordinated API contracts and data models across frontend, backend, and DevOps through launch.
 
-### LocalConnect Marketplace
-A sophisticated classifieds platform leveraging modern web technologies.
-- 🔐 JWT-based authentication system
-- 📍 Geospatial search optimization
-- 📱 95% mobile responsiveness
-- 🎯 Enhanced user targeting
+---
 
-[View Project](https://github.com/paarasv/localconnect-marketplace) | [Live Demo](#)
-
-### GeoTrack Live
-Real-time location tracking system with advanced mapping capabilities.
-- 🔄 Real-time updates via Socket.IO
-- 🗺️ Interactive mapping with Leaflet.js
-- 📍 Custom marker placement
-- 📏 Distance calculation features
-
-[View Project](https://github.com/paarasv/geotrack-live) | [Live Demo](#)
-
-## 📈 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=paarasv" alt="GitHub Streak"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarasv&layout=compact&theme=vision-friendly-dark" alt="Top Languages"/>
 </p>
 
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on innovative projects and discuss new technologies. Feel free to reach out through any of the following channels:
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/paras1111)
-- 📧 [Email](mailto:paaras.pv1111@gmail.com)
-- 🌐 [GitHub](https://github.com/paarasv)
-
 ---
 
-<p align="center">
-  <i>⭐️ If you like my projects, don't forget to leave a star!</i>
-</p>
+<p align="center">parasverma.pv.tech@gmail.com</p>
