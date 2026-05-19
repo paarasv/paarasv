@@ -39,27 +39,6 @@ stack = {
 
 ---
 
-**Timeline**
-
-| period | where | what |
-|--------|-------|------|
-| Nov '24 – Apr '25 | PayU (Naspers) | Data & AI Platform |
-| Jun '24 – Nov '24 | Plavox | iOS Gaming Platform |
-| Jan '24 – Jun '24 | Guardian Life | iOS Group Business Insurance |
-| 2021 – 2025 | VIT Vellore | B.Tech CSE · 8.62 CGPA |
-
----
-
-**[Sera (EmOS)](https://seraemos.com)** — `LangGraph · FastAPI · ChromaDB · Ollama · Docker` · v4  
-Agentic AI companion · persistent longitudinal context · 5-layer signal architecture · sole engineer
-
-**Plavox** — `Swift · SwiftUI`  
-Consumer iOS gaming app · zero to production
-
-**Guardian Life** — `Swift · SwiftLint · Periphery`  
-Self-service claim filing · 15% dead code eliminated
-
----
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=paarasv&hide_border=true" />
